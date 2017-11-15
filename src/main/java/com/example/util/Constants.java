@@ -10,8 +10,10 @@ public class Constants {
     public final static String RTN_STATUS_SUCCESS = "OK";
     public final static String RTN_STATUS_ERROR = "ERROR";
 
+
     /**
      * 通用错误信息
      */
+    public final static String RTN_MESSAGE_SUCCESS = "请求成功";
     public final static String RTN_MESSAGE_ERROR = "请求发生异常";
 }
